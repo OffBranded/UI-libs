@@ -3,7 +3,7 @@
 __Get the notifications module__
 
 ```lua
-local notifications = loadstring("https://raw.githubusercontent.com/AbstractPoo/Main/main/Notifications.lua")
+local notifications = loadstring("https://raw.githubusercontent.com/OffBranded/UI-libs/main/Notify/Notifications.lua")
 ```
 
 __Create a notification__
